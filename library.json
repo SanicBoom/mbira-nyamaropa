@@ -28,5 +28,151 @@
     "4_pluck_main_gs2_6_50_100_rr1": "MBira4_pluck_Main_G#2_6_50_100_rr1.wav",
     "4_pluck_main_gs3_7_50_100_rr2": "MBira4_pluck_Main_G#3_7_50_100_rr2.wav",
     "4_pluck_main_gs4_21_50_100_rr3": "MBira4_pluck_Main_G#4_21_50_100_rr3.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A#1",
+      "sample": "4_pluck_main_as1_14_50_100_rr1",
+      "loVel": 14,
+      "hiVel": 50
+    },
+    {
+      "note": "D#2",
+      "sample": "4_pluck_main_ds2_12_50_100_rr2",
+      "loVel": 12,
+      "hiVel": 50
+    },
+    {
+      "note": "E2",
+      "sample": "4_pluck_main_e2_10_50_100_rr3",
+      "loVel": 10,
+      "hiVel": 50
+    },
+    {
+      "note": "F#2",
+      "sample": "4_pluck_main_fs2_8_50_100_rr2",
+      "loVel": 8,
+      "hiVel": 50
+    },
+    {
+      "note": "G#2",
+      "sample": "4_pluck_main_gs2_6_50_100_rr1",
+      "loVel": 6,
+      "hiVel": 50
+    },
+    {
+      "note": "A2",
+      "sample": "4_pluck_main_a2_4_50_100_rr2",
+      "loVel": 4,
+      "hiVel": 50
+    },
+    {
+      "note": "B2",
+      "sample": "4_pluck_main_b2_13_50_100_rr3",
+      "loVel": 13,
+      "hiVel": 50
+    },
+    {
+      "note": "C#3",
+      "sample": "4_pluck_main_cs3_2_50_100_rr5",
+      "loVel": 2,
+      "hiVel": 50
+    },
+    {
+      "note": "D#3",
+      "sample": "4_pluck_main_ds3_15_50_100_rr1",
+      "loVel": 15,
+      "hiVel": 50
+    },
+    {
+      "note": "E3",
+      "sample": "4_pluck_main_e3_9_50_100_rr4",
+      "loVel": 9,
+      "hiVel": 50
+    },
+    {
+      "note": "F#3",
+      "sample": "4_pluck_main_fs3_11_50_100_rr2",
+      "loVel": 11,
+      "hiVel": 50
+    },
+    {
+      "note": "G#3",
+      "sample": "4_pluck_main_gs3_7_50_100_rr2",
+      "loVel": 7,
+      "hiVel": 50
+    },
+    {
+      "note": "A3",
+      "sample": "4_pluck_main_a3_5_50_100_rr1",
+      "loVel": 5,
+      "hiVel": 50
+    },
+    {
+      "note": "B3",
+      "sample": "4_pluck_main_b3_3_50_100_rr2",
+      "loVel": 3,
+      "hiVel": 50
+    },
+    {
+      "note": "B3",
+      "sample": "4_pluck_main_b3_16_50_100_rr2",
+      "loVel": 16,
+      "hiVel": 50
+    },
+    {
+      "note": "C#4",
+      "sample": "4_pluck_main_cs4_1_50_100_rr1",
+      "loVel": 1,
+      "hiVel": 50
+    },
+    {
+      "note": "C#4",
+      "sample": "4_pluck_main_cs4_17_50_100_rr1",
+      "loVel": 17,
+      "hiVel": 50
+    },
+    {
+      "note": "D#4",
+      "sample": "4_pluck_main_ds4_18_50_100_rr5",
+      "loVel": 18,
+      "hiVel": 50
+    },
+    {
+      "note": "E4",
+      "sample": "4_pluck_main_e4_19_50_100_rr2",
+      "loVel": 19,
+      "hiVel": 50
+    },
+    {
+      "note": "F#4",
+      "sample": "4_pluck_main_fs4_20_50_100_rr3",
+      "loVel": 20,
+      "hiVel": 50
+    },
+    {
+      "note": "G#4",
+      "sample": "4_pluck_main_gs4_21_50_100_rr3",
+      "loVel": 21,
+      "hiVel": 50
+    },
+    {
+      "note": "A4",
+      "sample": "4_pluck_main_a4_22_50_100_rr3",
+      "loVel": 22,
+      "hiVel": 50
+    },
+    {
+      "note": "B4",
+      "sample": "4_pluck_main_b4_23_50_100_rr3",
+      "loVel": 23,
+      "hiVel": 50
+    },
+    {
+      "note": "C#5",
+      "sample": "4_pluck_main_cs5_24_50_100_rr5",
+      "loVel": 24,
+      "hiVel": 50
+    }
+  ]
 }
